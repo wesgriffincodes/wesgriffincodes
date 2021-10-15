@@ -6,7 +6,7 @@
 
 <h5 align="center">
   <code>
-    <a href="https://www.linkedin.com/in/wesgriffincodes/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
+    <a href="https://www.linkedin.com/in/wesgriffincodes/" title="LinkedIn Profile">LinkedIn</a></code>
 </h5>
 <br>
 <div style="border: solid 3px red">
@@ -27,39 +27,36 @@
 <hr>
 <h2 align="center">🔥 My Skills🔥</h2>
 <br>
-<p align="center">
-  <code><img title="Javascript" height="25" src="images/javascript.svg"></code>
-  <code><img title="Problem Solving" height="25" src="images/problemSolving.png"></code>
-  <code><img title="HTML5" height="25" src="images/html5.svg"></code>
-  <code><img title="CSS" height="25" src="images/css.svg"></code>
-  <code><img title="SASS" height="25" src="images/sass.svg"></code>
-  <code><img title="React" height="25" src="images/react-original.svg"></code>
-  <code><img title="Redux" height="25" src="images/redux.svg"></code>
-  <code><img title="Git" height="25" src="images/git-original.svg"></code>
-  <code><img title="GraphQL" height="25" src="images/postgresql.svg"></code>
-  <code><img title="Visual Studio Code" height="25" src="images/vscode.png"></code>
-  <code><img title="JSON" height="25" src="images/json.svg"></code>
-  <code><img title="GitHub" height="25" src="images/github.svg"></code>
-  <code><img title="npm" height="25" src="images/npm.svg"></code>
-  <code><img title="MongoDB" height="25" src="images/npm.svg"></code>
-  <code><img title="Firebase" height="25" src="images/npm.svg"></code>
-  <code><img title="Node" height="25" src="images/npm.svg"></code>
-  <code><img title="Heroku" height="25" src="images/npm.svg"></code>
-  <code><img title="Netlify" height="25" src="images/npm.svg"></code>
-</p>
+
+![icons8-javascript-logo-64](https://user-images.githubusercontent.com/48806974/137538357-4376c75f-1d9b-45ea-adf1-34690ecbb56c.png)
+  ![problem-solving](https://user-images.githubusercontent.com/48806974/137537111-5d43aea7-4904-405d-be75-b2cb941455c5.png)
+![icons8-html-5-48](https://user-images.githubusercontent.com/48806974/137538133-f5edb4b5-61d3-431c-8e73-bf1fb620a9f8.png)
+![icons8-css-47](https://user-images.githubusercontent.com/48806974/137538477-7e70e494-7e4f-4150-9d3a-718750cb9296.png)
+![icons8-sass-avatar-48](https://user-images.githubusercontent.com/48806974/137538530-4e61e2fc-747d-43a2-b308-b332693cd7d5.png)
+![icons8-react-100](https://user-images.githubusercontent.com/48806974/137538596-75d89417-33de-453e-a131-74cf7e522930.png)
+![icons8-redux-48](https://user-images.githubusercontent.com/48806974/137538650-ed21437c-9dfc-41ea-ad2b-3a253d4f9d3f.png)
+![icons8-git-48](https://user-images.githubusercontent.com/48806974/137538700-8d681b14-63ce-4b90-8272-d461822c12c6.png)
+![icons8-graphql-48](https://user-images.githubusercontent.com/48806974/137538747-9179c65a-ddcd-44b8-bce2-f5cb6b870b92.png)
+![icons8-json-48](https://user-images.githubusercontent.com/48806974/137538829-06a4b5dd-add2-4b95-a713-223c5c24d4e5.png)
+![icons8-github-48](https://user-images.githubusercontent.com/48806974/137538866-3bf3b467-8897-4a9b-8006-ef8d0a33ad76.png)
+![icons8-npm-48](https://user-images.githubusercontent.com/48806974/137538911-23239c19-f889-4ce5-9d46-d86c93556704.png)
+![icons8-heroku-48](https://user-images.githubusercontent.com/48806974/137539680-8c1151f8-f308-4dea-ae1d-c2340937e258.png)
+![icons8-nodejs-48 (1)](https://user-images.githubusercontent.com/48806974/137539690-e1f7cb80-094d-41a6-84e9-f827bceec154.png)
+![icons8-nodejs-48](https://user-images.githubusercontent.com/48806974/137539701-fb66fea3-3858-4f93-8824-51412528b908.png)
+![icons8-firebase-48](https://user-images.githubusercontent.com/48806974/137539710-cb8ccf33-003f-4675-af7e-b6c888a72874.png)
+![icons8-mongodb-48](https://user-images.githubusercontent.com/48806974/137539717-66a187dd-3869-4016-8a62-48cd85518caf.png)
+
 <hr>
 
 <h2 align="center">⚡ Peep My Stats ⚡</h2>
 <br>
 <p align="center">
     <a href="https://github.com/wesgriffincodes/github-readme-streak-stats" title="Go to Source" align="center">
-      <img align="left" width=396 src="https://github-readme-streak-stats.herokuapp.com/?user=wesgriffincodes&theme=react&border=61dafb&hide_border=true" alt="Wes Griffin" align="center"/>
+      <img align="center" width=396 src="https://github-readme-streak-stats.herokuapp.com/?user=wesgriffincodes&theme=react&border=61dafb&hide_border=true" alt="Wes Griffin" align="center"/>
     </a>
 
-  <br><br><br><br>
+  <br><br>
 
-  <br>
-  <br>
   <img src="https://activity-graph.herokuapp.com/graph?username=wesgriffincodes&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
 
