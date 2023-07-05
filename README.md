@@ -18,8 +18,6 @@
       <br>
       🎓 I graduated from Alchemy Code Lab
       <br>
-      📚 I currently work as a software engineer at Allocations
-      <br>
       📫 Feel free to reach out: <a href="mailto: wesgriffincodes@gmail.com">wesgriffincodes@gmail.com</a>
    </div>
 </div>
